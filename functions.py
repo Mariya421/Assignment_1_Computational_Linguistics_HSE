@@ -1,9 +1,6 @@
 import re
 import random
 
-# NOTA BENE! 
-# supr and inf installed manually
-
 # getting lower case
 lower_case = lambda text : text.lower()
 
